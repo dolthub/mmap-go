@@ -10,3 +10,6 @@ I haven't been able to add more features without adding significant complexity,
 so mmap-go doesn't support mprotect, mincore, and maybe a few other things.
 If you're running on a Unix-like platform and need some of these features,
 I suggest Gustavo Niemeyer's [gommap](http://labix.org/gommap).
+
+Forked because borked!
+
